@@ -31,4 +31,7 @@ The project investigates the dynamics of district mapping and its repercussions 
   - Matplotlib
   - Sklearn (RandomForestRegressor, DecisionTreeRegressor, AdaBoostRegressor)
 
-## Repository Structure
+## Models Tested
+Random Forest Model
+Decision Tree
+AdaBoost Regressor
