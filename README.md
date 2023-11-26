@@ -30,8 +30,32 @@ The project investigates the dynamics of district mapping and its repercussions 
   - NumPy
   - Matplotlib
   - Sklearn (RandomForestRegressor, DecisionTreeRegressor, AdaBoostRegressor)
+## Data Sets
 
-## Models Tested
-Random Forest Model
-Decision Tree
-AdaBoost Regressor
+Here are the datasets used for the analysis:
+
+- [Census Data](./census_data.csv)
+- [Demographics and Housing Data (5 Years)](./demographic and housing 5 year.xlsx)
+- [American Community Survey Data](./2015-2019_American_Community_Survey.xlsx)
+- [District Data](./updated_districts_cleaned.csv)
+- [Income Data](./b02000.xlsx)
+- [Age Distribution Data](./s0101.xlsx)
+- [Income Distribution Data](./s1901.xlsx)
+
+## Jupyter Notebooks
+
+The following Jupyter Notebooks contain the analysis and machine learning models:
+
+- [Data Analysis Notebook](./CensusMedian.ipynb)
+- [Random Forest Model Analysis](./RandomForest.ipynb)
+- [Decision Tree Model Analysis](./DecisionTree.ipynb)
+- [ADA Boost Model Analysis](./adafinal.ipynb)
+- [Shapefile Update Script](./Update the Shapefile.ipynb)
+- [ADA Charts Analysis](./ADA Charts.ipynb)
+
+## Visualizations
+
+Visual representations created from the analysis:
+
+- [Current District Map Visualization](./district map current.png)
+- [District Map Visualization](./district map.png)
