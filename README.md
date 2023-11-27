@@ -51,6 +51,9 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 - [Random Forest Model Analysis](./RandomForest.ipynb)
 - [Decision Tree Model Analysis](./DecisionTree.ipynb)
 - [ADA Boost Model Analysis](./adafinal.ipynb)
+- [Random Forest MSE](./randomforestmse.ipynb)
+- [ADA Boost Model Charts](./ADA Charts.ipynb)
+- [CensusNMedian](./CensusMedian.ipynb
 
 
 ## Visualizations
