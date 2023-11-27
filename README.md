@@ -72,5 +72,5 @@ Visual representations created from the analysis:
 ![Variance of Native Populace 5 year period](/Variance_of_Native_Populace_5_year_period.png)
 ![ada MSE](/ada_MSE.png)
 
-##Results
+## Results
 In the course of our analysis, we encountered a substantial volume of data. Upon examining the redistricting efforts within the City of Kansas, the findings suggest that the processes are functioning appropriately. However, it is important to acknowledge the potential for data limitations to influence these results. One significant factor is the varying levels of participation in the census. As not all individuals engage with the census, there could be a skewing effect on the data, which in turn might affect the perceived efficacy of the redistricting measures. It is, therefore, crucial to consider these limitations when interpreting the results.
