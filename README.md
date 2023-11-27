@@ -63,7 +63,6 @@ Visual representations created from the analysis:
 ![District Map](/District_Map.png)
 ![KCMO](/KCMO.png)
 ![MSEDepths](/MSEDepths.png)
-![New district 1](/New_district_1.png)
 ![PairPlot](/PairPlot.png)
 
 ![Power BI median income](/Power_BI_median_income.png)
