@@ -54,6 +54,20 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 ## Visualizations
 
 Visual representations created from the analysis:
-
-- [Current District Map Visualization](./district map current.png)
-- [District Map Visualization](./district map.png)
+![Correlation Matrix](/Correlation_Matrix.png)
+![District Map](/District_Map.png)
+![KCMO](/KCMO.png)
+![MSEDepths](/MSEDepths.png)
+![Median Income over time by dis](/Median_Income_over_time_by_dis.png)
+![Median income over time 20-21](/Median_income_over_time_20-21.png)
+![New district 1](/New_district_1.png)
+![PairPlot](/PairPlot.png)
+![Power BI income](/Power_BI_income.png)
+![Power BI median income](/Power_BI_median_income.png)
+![Python for visuals](/Python_for_visuals.png)
+![Race 2020 Power BI](/Race_2020_Power_BI.png)
+![Relationships of Data](/Relationships_of_Data.png)
+![Sample Power BI Dash](/Sample_Power_BI_Dash.png)
+![Treemap of age 2021 by dist](/Treemap_of_age_2021_by_dist.png)
+![Variance of Native Populace 5 year period](/Variance_of_Native_Populace_5_year_period.png)
+![ada MSE](/ada_MSE.png)
