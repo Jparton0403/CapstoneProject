@@ -1,6 +1,7 @@
 # Kansas City District Remapping Analysis
 
-This repository contains the data, scripts, and Jupyter Notebooks used in the analysis of the socio-political and demographic impacts of district remapping within Kansas City, Missouri. The study examines how redistricting affects various demographic variables such as age, income, and racial composition.
+This repository contains the data, scripts, and Jupyter Notebooks used in the analysis of the socio-political and demographic impacts of district remapping within Kansas City, Missouri. The study examines how redistricting affects various demographic variables such as age, income, and racial composition. 
+Our overleaf report is here https://www.overleaf.com/read/yqpbpthggqxz#bdd445 
 
 ## Abstract
 
