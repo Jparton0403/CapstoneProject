@@ -52,8 +52,8 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 - [Decision Tree Model Analysis](./DecisionTree.ipynb)
 - [ADA Boost Model Analysis](./adafinal.ipynb)
 - [Random Forest MSE](./randomforestmse.ipynb)
-- [ADA Boost Model Charts](./ADA Charts.ipynb)
-- [CensusNMedian](./CensusMedian.ipynb
+- [ADA Boost Model Charts](./ADACharts.ipynb)
+- [CensusNMedian](./CensusMedian.ipynb)
 
 
 ## Visualizations
@@ -63,11 +63,9 @@ Visual representations created from the analysis:
 ![District Map](/District_Map.png)
 ![KCMO](/KCMO.png)
 ![MSEDepths](/MSEDepths.png)
-![Median Income over time by dis](/Median_Income_over_time_by_dis.png)
-![Median income over time 20-21](/Median_income_over_time_20-21.png)
 ![New district 1](/New_district_1.png)
 ![PairPlot](/PairPlot.png)
-![Power BI income](/Power_BI_income.png)
+
 ![Power BI median income](/Power_BI_median_income.png)
 ![Python for visuals](/Python_for_visuals.png)
 ![Race 2020 Power BI](/Race_2020_Power_BI.png)
