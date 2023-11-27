@@ -15,7 +15,7 @@ The project investigates the dynamics of district mapping and its repercussions 
   - S1901: Income demographics
 - City of Kansas City’s parcel viewer for geographic information
 Power bi report
-https://app.powerbi.com/groups/me/reports/77e51a91-af42-4a23-acd8-02ed6043149a/ReportSection9159430101caad17c118?experience=power-bi
+https://app.powerbi.com/groups/me/reports/77e51a91-af42-4a23-acd8-02ed6043149a/ReportSection9159430101caad17c118?experience=power-bi - the user must have a microsoft account to use
 ## Tools and Libraries
 
 - **Data Analysis and Visualization**:
