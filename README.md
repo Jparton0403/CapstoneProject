@@ -58,20 +58,19 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 
 ## Visualizations
 
-Visual representations created from the analysis:
 ![Correlation Matrix](/Correlation_Matrix.png)
 ![District Map](/District_Map.png)
 ![KCMO](/KCMO.png)
 ![MSEDepths](/MSEDepths.png)
 ![PairPlot](/PairPlot.png)
-[Power BI median income](/Power%20BI%20median%20income.png)
+![Power BI median income](/Power%20BI%20median_income.png)
 ![Python for visuals](/Python%20for%20visuals.png)
-![Race 2020 Power BI](/Race_2020_Power_BI.png)
-![Relationships of Data](/Relationships_of_Data.png)
-![Sample Power BI Dash](/Sample_Power_BI_Dash.png)
-![Treemap of age 2021 by dist](/Treemap_of_age_2021_by_dist.png)
-![Variance of Native Populace 5 year period](/Variance_of_Native_Populace_5_year_period.png)
-![ada MSE](/ada_MSE.png)
+![Race 2020 Power BI](/Race%202020%20Power%20BI.png)
+![Relationships of Data](/Relationships%20of%20Data.png)
+![Sample Power BI Dash](/Sample%20Power%20BI%20Dash.png)
+![Treemap of age 2021 by dist](/Treemap%20of%20age%202021%20by%20dist.png)
+![Variance of Native Populace 5 year period](/Variance%20of%20Native%20Populace%205%20year%20period.png)
+![ada MSE](/ada%20MSE.png)
 
 ## Results
 In the course of our analysis, we encountered a substantial volume of data. Upon examining the redistricting efforts within the City of Kansas, the findings suggest that the processes are functioning appropriately. However, it is important to acknowledge the potential for data limitations to influence these results. One significant factor is the varying levels of participation in the census. As not all individuals engage with the census, there could be a skewing effect on the data, which in turn might affect the perceived efficacy of the redistricting measures. It is, therefore, crucial to consider these limitations when interpreting the results.
