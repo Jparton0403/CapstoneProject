@@ -64,7 +64,7 @@ Visual representations created from the analysis:
 ![KCMO](/KCMO.png)
 ![MSEDepths](/MSEDepths.png)
 ![PairPlot](/PairPlot.png)
-![Power BI median income](/Power_BI_median_income.png)
+[Power BI median income](/Power_BI_median_income.png)
 ![Python for visuals](/Python_for_visuals.png)
 ![Race 2020 Power BI](/Race_2020_Power_BI.png)
 ![Relationships of Data](/Relationships_of_Data.png)
