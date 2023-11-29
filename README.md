@@ -58,12 +58,12 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 
 ## Visualizations
 
-![Correlation Matrix](/Correlation_Matrix.png)
-![District Map](/District_Map.png)
+![Correlation Matrix](/Correlation%20Matrix.png)
+![District Map](/District%20Map.png)
 ![KCMO](/KCMO.png)
 ![MSEDepths](/MSEDepths.png)
 ![PairPlot](/PairPlot.png)
-![Power BI median income](/Power%20BI%20median_income.png)
+![Power BI median income](/Power%20BI%20median%20income.png)
 ![Python for visuals](/Python%20for%20visuals.png)
 ![Race 2020 Power BI](/Race%202020%20Power%20BI.png)
 ![Relationships of Data](/Relationships%20of%20Data.png)
