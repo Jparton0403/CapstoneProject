@@ -33,7 +33,7 @@ The project investigates the dynamics of district mapping and its repercussions 
 Here are the datasets used for the analysis:
 
 - [Census Data](./census_data.csv)
-- [American Community Survey Data](./2015-2019_American_Community_Survey.xlsx)
+- [American Community Survey Data](.//2015-2019_American_Community_Survey_Detailed_Census_Tract_Data.csv)
 - [District Data](./updated_districts_cleaned.csv)
 - [Income Data](./b02000.xlsx)
 - [Age Distribution Data](./s0101.xlsx)
@@ -48,7 +48,7 @@ The following Jupyter Notebooks contain the analysis and machine learning models
 - [Decision Tree Model Analysis](./DecisionTree.ipynb)
 - [ADA Boost Model Analysis](./adafinal.ipynb)
 - [Random Forest MSE](./randomforestmse.ipynb)
-- [ADA Boost Model Charts](./ADACharts.ipynb)
+- [ADA Boost Model Charts](./ADA%20Charts.ipynb)
 - [CensusNMedian](./CensusMedian.ipynb)
 
 
